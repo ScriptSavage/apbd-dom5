@@ -70,7 +70,7 @@ app.MapDelete("/animals/{id}", (int id) =>
 });
 
 
-app.MapGet("/visits/{animalId}", (int animalId) =>
+ app.MapGet("/visits/{animalId}", (int animalId) =>
 {
     var visits = StaticData.visits.Where(v => v.AnimalId == animalId).ToList();
     if (!visits.Any())
