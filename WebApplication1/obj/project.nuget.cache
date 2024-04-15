@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MIE9zX5k/L+bHKkP/pX4ebmMxWMRdpZKGg4G7NFD0pyPRP5mYzJ9MwKH5JUUgsYU6+Wlu5yanlZDCD84l9Fo2w==",
+  "dgSpecHash": "eLuLxDUMXXWL4rpnFcAVyN9hGQdD5BT1JAUGAXnptaRy5RmbBuHeh78bslTbNZ87xN3jsemUcLRraW7i0rNjRw==",
   "success": true,
-  "projectFilePath": "/Users/maksymilian/RiderProjects/WebApplication1/WebApplication1/WebApplication1.csproj",
+  "projectFilePath": "/Users/maksymilian/Desktop/apbd-dom5/WebApplication1/WebApplication1/WebApplication1.csproj",
   "expectedPackageFiles": [
     "/Users/maksymilian/.nuget/packages/microsoft.aspnetcore.openapi/8.0.1/microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
     "/Users/maksymilian/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
